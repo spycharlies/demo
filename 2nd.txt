@@ -1,2 +1,6 @@
-2nd file
-adding – something to 2nd line and removing spaces
+1 line
+2
+3
+4
+5
+6
