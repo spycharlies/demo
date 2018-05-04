@@ -1,2 +1,2 @@
 Line 1
-Line 2 changed in branch
+Line 2 changed in branch, from master add 2, from branch add 2
